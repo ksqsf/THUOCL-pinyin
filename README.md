@@ -1,4 +1,12 @@
+# THUOCL-pinyin
+
+THUOCL-pinyin 提供了原 THUOCL 词库的拼音数据和繁体变体数据，使用 CSV 格式。拼音数据不含声调信息。
+
+※ 本项目是 rime-moran 项目的副产物。
+
 # THUOCL
+
+（以下是原 THUOCL 项目的 README）
 
 ## 目录
 
